@@ -12,6 +12,6 @@ public class Olamundocontroller {
 
     @GetMapping("/")   
     public String OlaMundo(){
-        return "Ola mundo Vscode SOU O MELHOR - integracao com Spring tools 4 ";
+        return "Ola mundo Vscode SOU O MELHOR - integracao com Spring tools 4 -- ";
     }
 }
